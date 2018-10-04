@@ -1,0 +1,15 @@
+body{
+background-color: #1e90ff;
+font-family: 'Artifika', serif; 
+}
+h1{
+	font-size: 65px;
+}
+
+#pages {
+	text-indent: 450px;
+}
+
+#title {
+	text-indent: 375px;
+}
